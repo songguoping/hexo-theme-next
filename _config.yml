@@ -143,10 +143,10 @@ social_icons:
 # Blog rolls
 links_icon: link
 links_title: Links
-links_layout: block
-#links_layout: inline
-#links:
-  #Title: http://example.com/
+#links_layout: block
+links_layout: inline
+links:
+  CoDog: http://codog.net/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
